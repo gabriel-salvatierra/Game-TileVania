@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 548}
-  m_MaxSize: {x: 18006, y: 14024}
+  m_MinSize: {x: 713, y: 548}
+  m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 4795
+  controlID: 1619
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,10 +138,10 @@ MonoBehaviour:
     y: 0
     width: 326
     height: 947
-  m_MinSize: {x: 232, y: 474}
-  m_MaxSize: {x: 10002, y: 14024}
+  m_MinSize: {x: 232, y: 498}
+  m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 4635
+  controlID: 1458
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 548}
   m_MaxSize: {x: 4004, y: 12048}
   vertical: 1
-  controlID: 4761
+  controlID: 1585
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 424}
   m_MaxSize: {x: 4004, y: 8024}
   vertical: 1
-  controlID: 4740
+  controlID: 1564
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -463,7 +463,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 04f4ffffdafbffff7038000094380000bc380000
+      m_ExpandedIDs: e4f8ffffb6fbffffaa380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -556,20 +556,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Gabriel\Unity\Projects\TileVania
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92330000
-    m_LastClickedID: 13202
-    m_ExpandedIDs: 000000005a290000622a00000c2c00003c2c00002c2d000084320000b63500008a36000000ca9a3b
+    m_SelectedIDs: 78300000
+    m_LastClickedID: 12408
+    m_ExpandedIDs: 000000006c290000742a00001e2c00004e2c0000402d00009a320000cc350000a036000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -597,7 +597,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005a290000622a00000c2c00003c2c00002c2d000084320000b63500008a36000000ca9a3b
+    m_ExpandedIDs: 000000006c290000742a00001e2c00004e2c0000402d00009a320000cc350000a036000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -710,9 +710,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 380.1188, y: 196.18102, z: -0.10376519}
+    m_Target: {x: 75.925, y: -0.26857197, z: 0}
     speed: 2
-    m_Value: {x: 380.1188, y: 196.18102, z: -0.10376519}
+    m_Value: {x: 75.925, y: -0.26857197, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -744,9 +744,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 688.64966
+    m_Target: 64.3247
     speed: 2
-    m_Value: 688.64966
+    m_Value: 64.3247
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -884,7 +884,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -3116
+  m_LastSelectedObjectID: -1820
 --- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
