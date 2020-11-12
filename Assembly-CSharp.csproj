@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ScenePersist.cs" />
+    <Compile Include="Assets\Scripts\VerticalScroll.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Cinemachine">
       <HintPath>C:/Users/Gabriel/Unity/Projects/TileVania/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
